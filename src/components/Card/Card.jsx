@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router';
 
+
 const Card = ({ pet }) => {
 	return (
 		<div className='bg-[#F6F6F6] rounded-lg shadow-md p-6 w-full flex flex-col items-center justify-center'>
